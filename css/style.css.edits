@@ -1,3 +1,4 @@
+/* Website template by freewebsitetemplates.com */
 /*------------------------- Layout styles ------------------------*/
 body {
 	margin:0;
@@ -264,13 +265,13 @@ p a:hover {
 	width:270px;
 }
 .body .content-home div h3 span.beauty {
-	color:##6e9fc1;
+	color:#26bcb3;
 }
 .body .content-home div h3 span.function {
-	color:##6e9fc1;
+	color:#aec066;
 }
 .body .content-home div h3 span.works {
-	color:##6e9fc1;
+	color:#ff9600;
 }
 .body .content-home div p {
 	color:#0a0a0a;
@@ -356,10 +357,6 @@ p a:hover {
 	filter:alpha(opacity=90);/* Needed for IE8 and old versions */
 	opacity:0.9;
 }
-
-
-/*----------about fonts and style-------------*/
-
 .body .content-about div:first-child {
 	background:none #FFF;
 	margin-top:0;
@@ -373,8 +370,8 @@ p a:hover {
 	padding:26px 0 189px 30px;
 }
 .body .content-about div:first-child h3 {
-	color:#a3cae9;
-	font-size:35px;
+	color:#acacac;
+	font-size:27px;
 	font-weight:400;
 	letter-spacing:.02em;
 	line-height:36px;
@@ -395,8 +392,8 @@ p a:hover {
 	margin:0;
 }
 .body .content-about div div p {
-	color:#0a0a0a;
-	font-size:20px;
+	color:#acacac;
+	font-size:13px;
 	letter-spacing:.02em;
 	line-height:24px;
 	margin:0 0 22px;
@@ -433,7 +430,7 @@ p a:hover {
 }
 .body .content-about div div.sidebar div h3 {
 	color:#395a7f;
-	font-size:25px;
+	font-size:21px;
 	font-weight:400;
 	margin:13px 0 8px;
 	text-transform:none;
@@ -526,10 +523,10 @@ p a:hover {
 	padding:1px 0 21px 30px;
 }
 .body .content-service div:first-child h3 {
-	color:#6e9fc1;
+	color:#acacac;
 	display:inline-block;
 	float:left;
-	font-size:35px;
+	font-size:27px;
 	font-weight:400;
 	letter-spacing:.02em;
 	line-height:36px;
@@ -584,14 +581,14 @@ p a:hover {
 	margin:0 20px 0 0;
 }
 .body .content-service div ul li span {
-	background-color:#a3cae9;
+	background-color:#dd8514;
 	display:block;
 	height:35px;
 	width:368px;
 }
 .body .content-service div ul li span a {
-	color:#0a0a0a;
-	font-size:20px;
+	color:#FFF;
+	font-size:18px;
 	line-height:33px;
 	margin:0 0 0 15px;
 	text-decoration:none;
@@ -988,7 +985,7 @@ p a:hover {
 }
 .body .content-contact div div form h4 {
 	color:#395a7f;
-	font-size:30px;
+	font-size:21px;
 	font-weight:400;
 	letter-spacing:.02em;
 	line-height:24px;
@@ -1006,7 +1003,7 @@ p a:hover {
 	color:#939393;
 	display:block;
 	font-family:Arial, Helvetica, sans-serif;
-	font-size:20px;
+	font-size:11px;
 	height:189px;
 	letter-spacing:.02em;
 	margin:0 0 18px;
@@ -1024,7 +1021,7 @@ p a:hover {
 }
 .body .content-contact div div.sidebar h3 {
 	color:#395a7f;
-	font-size:25px;
+	font-size:21px;
 	font-weight:400;
 	letter-spacing:.02em;
 	line-height:24px;
@@ -1035,7 +1032,7 @@ p a:hover {
 	color:#acacac;
 	display:block;
 	font-family:Arial, Helvetica, sans-serif;
-	font-size:20px;
+	font-size:12px;
 	font-weight:700;
 	letter-spacing:.02em;
 	line-height:24px;
@@ -1044,7 +1041,7 @@ p a:hover {
 .body .content-contact div div.sidebar p {
 	color:#acacac;
 	font-family:Arial, Helvetica, sans-serif;
-	font-size:20px;
+	font-size:12px;
 	letter-spacing:.02em;
 	line-height:24px;
 	margin:0 0 12px;
@@ -1226,7 +1223,7 @@ p a:hover {
 }
 .body .content-blog-single div div ul li p, .body .content-contact div div p {
 	color:#acacac;
-	font-size:20px;
+	font-size:13px;
 	letter-spacing:.02em;
 	line-height:24px;
 	margin:0 0 24px;
@@ -1238,7 +1235,7 @@ p a:hover {
 	color:#939393;
 	display:block;
 	font-family:Arial, Helvetica, sans-serif;
-	font-size:20px;
+	font-size:11px;
 	height:20px;
 	letter-spacing:.02em;
 	line-height:22px;
@@ -1252,7 +1249,7 @@ p a:hover {
 	color:#fff;
 	cursor:pointer;
 	font-family:Arial, Helvetica, sans-serif;
-	font-size:20px;
+	font-size:12px;
 	height:23px;
 	line-height:0;
 	margin:0;
