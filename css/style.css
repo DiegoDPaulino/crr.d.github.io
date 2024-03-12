@@ -1,7 +1,7 @@
 /*------------------------- Layout styles ------------------------*/
 body {
 	margin:0;
-	background-color:#395a7f;
+	background-color:#a3cae9;
 	font-family: 'AbelRegular';
 	position:relative;
 }
@@ -146,12 +146,12 @@ p a:hover {
 }
 .sidebar ul li.home:hover a {
 	width:114px;
-	background:url(../images/nav-icon.png) no-repeat 33px -56px #a3cae9;
+	background:url(../images/nav-icon.png) no-repeat 33px -56px #6e9fc1;
 }
 .sidebar ul li.home a {
 	width:114px;
 	height:144px;
-	background:url(../images/nav-icon.png) no-repeat 33px 45px #a3cae9;
+	background:url(../images/nav-icon.png) no-repeat 33px 45px #6e9fc1;
 }
 .sidebar ul li.selected.about a, .sidebar ul li.selected.about:hover a {
 	width:122px;
@@ -159,12 +159,12 @@ p a:hover {
 }
 .sidebar ul li.about:hover a {
 	width:114px;
-	background:url(../images/nav-icon.png) no-repeat 33px -271px #a3cae9;
+	background:url(../images/nav-icon.png) no-repeat 33px -271px #6e9fc1;
 }
 .sidebar ul li.about a {
 	width:114px;
 	height:144px;
-	background:url(../images/nav-icon.png) no-repeat 33px -163px #a3cae9;
+	background:url(../images/nav-icon.png) no-repeat 33px -163px #6e9fc1;
 }
 .sidebar ul li.selected.service a, .sidebar ul li.selected.service:hover a {
 	width:122px;
@@ -172,12 +172,12 @@ p a:hover {
 }
 .sidebar ul li.service:hover a {
 	width:114px;
-	background:url(../images/nav-icon.png) no-repeat 33px -480px #a3cae9;
+	background:url(../images/nav-icon.png) no-repeat 33px -480px #6e9fc1;
 }
 .sidebar ul li.service a {
 	width:114px;
 	height:144px;
-	background:url(../images/nav-icon.png) no-repeat 33px -377px #a3cae9;
+	background:url(../images/nav-icon.png) no-repeat 33px -377px #6e9fc1;
 }
 
 }
@@ -187,12 +187,12 @@ p a:hover {
 }
 .sidebar ul li.contact:hover a {
 	width:114px;
-	background:url(../images/nav-icon.png) no-repeat 33px -848px #a3cae9;
+	background:url(../images/nav-icon.png) no-repeat 33px -848px #6e9fc1;
 }
 .sidebar ul li.contact a {
 	width:114px;
 	height:144px;
-	background:url(../images/nav-icon.png) no-repeat 33px -763px #a3cae9;
+	background:url(../images/nav-icon.png) no-repeat 33px -763px #6e9fc1;
 }
 .sidebar div.connect {
 	position:absolute;
@@ -387,7 +387,7 @@ p a:hover {
 	padding:5px 60px 0 0;
 	width:444px;
 }
-.body .content-about div div h1 {
+.body .content-about div div h3 {
 	color:#395a7f;
 	font-size:21px;
 	font-weight:400;
@@ -432,7 +432,7 @@ p a:hover {
 	width:241px;
 }
 .body .content-about div div.sidebar div h3 {
-	color:#395a7f;
+	color:#0a0a0a;
 	font-size:25px;
 	font-weight:400;
 	margin:13px 0 8px;
@@ -981,7 +981,7 @@ p a:hover {
 	text-transform:uppercase;
 }
 .body .content-contact div div p a {
-	color:#ffffff;
+	color:#0a0a0a;
 	margin:0;
 	text-decoration:none;
 	text-transform:none;
@@ -1023,7 +1023,7 @@ p a:hover {
 	width:241px;
 }
 .body .content-contact div div.sidebar h3 {
-	color:#395a7f;
+	color:#0a0a0a;
 	font-size:25px;
 	font-weight:400;
 	letter-spacing:.02em;
@@ -1032,7 +1032,7 @@ p a:hover {
 	text-transform:none;
 }
 .body .content-contact div div.sidebar span {
-	color:#acacac;
+	color:#0a0a0a;
 	display:block;
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:20px;
@@ -1042,15 +1042,15 @@ p a:hover {
 	margin:0 0 12px;
 }
 .body .content-contact div div.sidebar p {
-	color:#acacac;
+	color:#0a0a0a;
 	font-family:Arial, Helvetica, sans-serif;
-	font-size:20px;
+	font-size:18px;
 	letter-spacing:.02em;
 	line-height:24px;
 	margin:0 0 12px;
 }
 .body .content-contact div div.sidebar p a:hover {
-	color:#ffffff!important;
+	color:#0a0a0a!important;
 }
 .body .content-home div:first-child, .body .content-about div div.sidebar div:first-child h3 {
 	margin-top:0;
